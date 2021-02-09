@@ -17,6 +17,9 @@ instead.
 This time, we've added some extra functionality to the window class - we can
 hide or show the 
 // blarg
+
+
+TEST MACIEJ
 */
 int main() {
 	Window*w = Window::CreateGameWindow("CSC8508 Game technology!", 1280, 720);
